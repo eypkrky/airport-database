@@ -1,0 +1,9 @@
+# SQL Server local files
+*.mdf
+*.ndf
+*.ldf
+
+# IDE files
+.vs/
+*.user
+*.suo
